@@ -1,0 +1,25 @@
+{
+  "name": "redux-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "16.9.5",
+    "@types/react-dom": "16.9.1",
+    "@types/react-redux": "7.1.4",
+    "parcel": "1.12.4",
+    "typescript": "3.6.4"
+  },
+  "dependencies": {
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
+    "react-redux": "7.1.1",
+    "redux": "4.0.4"
+  }
+}
